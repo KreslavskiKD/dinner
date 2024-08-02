@@ -1,4 +1,4 @@
-package ru.kreslavski.family.dinner.controllers
+package ru.kreslavski.family.dinner.web.pages
 
 import org.springframework.stereotype.Controller
 import org.springframework.ui.Model
